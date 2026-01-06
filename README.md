@@ -5,4 +5,5 @@ cal_vpd: calculate VPD from specific humidity (huss), temperature (tas), and pre
 
 process: merge all data to one NC file from 1960-2014 or 2015-2099 (SSP126/245/370/585)
 
+mask.rar: the mask file of Indo-Gangetic, South Asia Countries in 0.25/1.25 degree resolution
 
